@@ -50,13 +50,15 @@ Verder is de website mooi gedaan.
 Naam student: 
 Pepijn de Koning voor Leroy Andrade
 
-
 Onderwerp website / samenvatting
 Fomule 1
+
 Opmerkingen / Vragen
-Aan de style zou ik alles op de zelfde manier uitlijnen met gelijke padding
+    Aan de style zou ik alles op de zelfde manier uitlijnen met gelijke padding
+    
 Uidagend design voor de nav
-Tips
+    Tips
 Probeer alles gelijk uittelijnen
+
 Tops
-Goed onderwerp veel over te vertellen, Goede home page informatie duidelijk te vinden
+    Goed onderwerp veel over te vertellen, Goede home page informatie duidelijk te vinden
