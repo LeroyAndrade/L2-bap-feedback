@@ -10,7 +10,7 @@ Alle resterende pagina's (views) uploaden
 Bonus functies bekijken en toepassen
 
 15-1
-Docent vragen mee kijken met code
+Docent vragen feedback te geven
 
 16-1 (mits ander vakken hier niet tussen komen)
 Bonus opdracht uitwerken
